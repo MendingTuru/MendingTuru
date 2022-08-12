@@ -10,7 +10,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285929970260)
 [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kokopangeran_/)
-[![Gmail](https://img.shields.io/badge/Gmail-8a0707?style=for-the-badge&logo=gmail&logoColor=white)](http://pangeran.dwnta01@gmail.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC_nKNU3Htf4Bp_wkhj3pVXQ/)
 
 ---------
