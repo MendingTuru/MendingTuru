@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img align="center" height="100%" src="https://i.ibb.co/Yk7ZPm0/pangeran2.jpg"/>
+<img align="center" height="100%" src="https://i.ibb.co/1LF6QHQ/pangeran.jpg"/>
 </P>
 
 ###
