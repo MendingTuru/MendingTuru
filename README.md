@@ -1,4 +1,4 @@
-/*<h1 align="left">ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ</h1>
+<h1 align="left">ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ</h1>
 
 
 <p align="center">
@@ -35,21 +35,21 @@
 
 var ran = `
 
-Name               : Koko Pangeran
-Age                : 20
-Gender             : Male
-From               : indonesian 🇮🇩
-Currently learning : Js, html, css
+//Name               : Koko Pangeran
+//Age                : 20
+//Gender             : Male
+//From               : indonesian 🇮🇩
+//Currently learning : Js, html, css
 `
-return ran
+//return ran
 ```
-### My Build
-- 💬 npm i ffmpeg &&  npm start.
-- 💭 npm i && npm update && node .
-- 🗿 https://github.com/heroku/heroku-buildpack-google-chrome
-- 💦 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-- 🔥 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-- 👤 https://github.com/rocketmobile/heroku-buildpack-imagemagick.git
-- 👻 https://github.com/yespark/heroku-imagemagick-buildpack*/
+//### My Build
+//- 💬 npm i ffmpeg &&  npm start.
+//- 💭 npm i && npm update && node .
+//- 🗿 https://github.com/heroku/heroku-buildpack-google-chrome
+//- 💦 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+//- 🔥 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+//- 👤 https://github.com/rocketmobile/heroku-buildpack-imagemagick.git
+//- 👻 https://github.com/yespark/heroku-imagemagick-buildpack
 
 
