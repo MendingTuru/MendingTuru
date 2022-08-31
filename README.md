@@ -1,4 +1,4 @@
-<h1 align="left">ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ</h1>
+/*<h1 align="left">ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ</h1>
 
 
 <p align="center">
@@ -50,6 +50,6 @@ return ran
 - 💦 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 - 🔥 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - 👤 https://github.com/rocketmobile/heroku-buildpack-imagemagick.git
-- 👻 https://github.com/yespark/heroku-imagemagick-buildpack
+- 👻 https://github.com/yespark/heroku-imagemagick-buildpack*/
 
 
