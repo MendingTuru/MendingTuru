@@ -4,7 +4,7 @@
 <h1 align='center'>Hallo bang👋 :wave:</h1>
 <p align='center'>Hi There, I'm ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×</p>
 <p align="center">
-<a href="https://mendingturu.my.id"><img align="center" src="https://github-cardname.mendingturu.my.id/api?name=Koko+Pangeran&description=Hi,%20i%27m%20MendingTuru%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/mendingturu&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kokopangeran_&github=MendingTuru&pattern=ticTacToe&colorPattern=%23eaeaea&site=MendingTuru.my.id"/></a>
+<a href="https://mendingturu.my.id"><img align="center" src="https://github-cardname.mendingturu.my.id/api?name=Mending+Turu&description=Hi,%20i%27m%20MendingTuru%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/MendingTuru&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kokopangeran_&github=MendingTuru&pattern=ticTacToe&colorPattern=%23eaeaea&site=MendingTuru.my.id"/></a>
 </p>
 <p align='center'>
 <a href="https://instagram.com/kokopangeran_"><img height="30" src="https://storage.mendingturu.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
