@@ -2,9 +2,9 @@
 <img src="https://avatars.githubusercontent.com/mendingturu" width="150" height="150"/>
 </p>
 <h1 align='center'>Hallo bang👋 :wave:</h1>
-<p align='center'>Hi There, I'm Caliph</p>
+<p align='center'>Hi There, I'm ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×</p>
 <p align="center">
-<a href="https://caliph.my.id"><img align="center" src="https://github-cardname.mendingturu.my.id/api?name=Koko+Pangeran&description=Hi,%20i%27m%20MendingTuru%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/mendingturu&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kokopangeran_&github=MendingTuru&pattern=ticTacToe&colorPattern=%23eaeaea&site=MendingTuru.my.id"/></a>
+<a href="https://mendingturu.my.id"><img align="center" src="https://github-cardname.mendingturu.my.id/api?name=Koko+Pangeran&description=Hi,%20i%27m%20MendingTuru%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/mendingturu&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kokopangeran_&github=MendingTuru&pattern=ticTacToe&colorPattern=%23eaeaea&site=MendingTuru.my.id"/></a>
 </p>
 <p align='center'>
 <a href="https://instagram.com/kokopangeran_"><img height="30" src="https://storage.mendingturu.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
@@ -19,8 +19,8 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/kokopangeran_" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
 <p align="left"><a href="https://Wa.me/6287740530274" target="blank"><img align="center" src="https://storage.caliph.my.id/img/whatsapp.svg" height="30" width="30" /></a>
-<p align="left"><a href="//clp.pw/yt"><img src="https://storage.mendingturu.my.id/img/youtube.svg" height="30" width="30" /></a>
-<p align="left"><a href="//t.me/caliphdev"><img src="https://storage.mendingturu.my.id/img/telegram.png" height="30" width="30" /></a>
+<p align="left"><a href="https://clp.pw/yt"><img src="https://storage.mendingturu.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="https://t.me/mendingturu"><img src="https://storage.mendingturu.my.id/img/telegram.png" height="30" width="30" /></a>
 </p>
 
 <p align="left">
