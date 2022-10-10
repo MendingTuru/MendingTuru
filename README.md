@@ -1,11 +1,11 @@
-# My-Profile
+# My-Profile 👋
 <p align="center">
 <a href="https://api-kokopangeran.herokuapp.com"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Koko%20Pangeran&description=Hi,%20I%27m%20Koko%20Pangeram%20And%20I%27m%20Just%20a%20Newbie%20Programmer%20Nice%20To%20Meet%20You%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/MendingTuru&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kokopangeran_&github=mendingturu&pattern=ticTacToe&colorPattern=%23eaeaea&site=api-kokopangeran.herokuapp.com"/></a>
 </p>
 
 
 
-# ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×
+# ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/mendingturu" width="150" height="150"/>
