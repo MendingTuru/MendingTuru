@@ -8,7 +8,7 @@
 # ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/mendingturu" width="150" height="150"/>
+<img src="https://telegra.ph/file/700df524f39be728c8882.jpg" width="150" height="150"/>
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </p>
 
 ## Contact Me!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283863727745)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283863727744)
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/KOKO-PANGERAN-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC_nKNU3Htf4Bp_wkhj3pVXQ)
