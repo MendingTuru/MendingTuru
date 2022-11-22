@@ -8,7 +8,7 @@
 # ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ
 
 <p align="center">
-<img src="https://telegra.ph/file/700df524f39be728c8882.jpg" width="190" height="190"/>
+<img src="https://telegra.ph/file/700df524f39be728c8882.jpg" width="220" height="220"/>
 </p>
 
 <div align="center">
